@@ -1,10 +1,9 @@
 import './App.css'
 
 function App() {
-
   return (
     <>
-      <br> This is DEV </br>
+      <h1>This is DEV</h1>
     </>
   )
 }
