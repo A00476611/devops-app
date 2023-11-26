@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <br> This is QA </br>
+      <h1> This is QA </h1>
     </>
   )
 }
