@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <br> This is PROD </br>
+      <br> This is DEV </br>
     </>
   )
 }
